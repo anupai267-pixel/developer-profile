@@ -196,7 +196,7 @@ color: white;
 
 @media (max-width: 700px) {
 
-```
+
 nav {
     flex-direction: column;
     gap: 12px;
@@ -227,6 +227,6 @@ nav {
 .skill {
     width: 100%;
 }
-```
+
 
 }
